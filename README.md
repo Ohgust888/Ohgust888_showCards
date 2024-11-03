@@ -4,7 +4,7 @@
 OS：Windows10, 
 言語：C++, 
 開発ソフト：Visual Studio 2022, 
-その他：OpenCVを使用, 
+その他：OpenCVを使用
 
 アップロードしてあるファイルの説明：
 showCardsファイル：Visual Studio 2022で作成したプロジェクトのファイルが丸ごと入っています。
